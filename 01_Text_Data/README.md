@@ -1,5 +1,9 @@
+> **프로젝트: SentencePiece 사용하기 (멋진 단어사전 만들기)**
+> - 통합본(제출용): [SentencePiece_프로젝트.ipynb](SentencePiece_프로젝트.ipynb) — 원본 과제 + 개인 실험 + 추가 실험 + 회고
+> - 요약: [프로젝트_정리.md](프로젝트_정리.md) · 회고: [report/개인회고.md](report/개인회고.md) · 따로 실행한 노트북: [추가실험/](추가실험)
+
 # Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
+- 코더 : 황예성
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
 
 # PRT(Peer Review Template)

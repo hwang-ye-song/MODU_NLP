@@ -1,3 +1,5 @@
+> SentencePiece 프로젝트(멋진 단어사전 만들기)는 [01_Text_Data](../01_Text_Data)로 옮겼습니다.
+
 # Peer Review Templete
 - 코더 : 코더의 이름을 작성하세요.
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
